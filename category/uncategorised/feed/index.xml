@@ -12,7 +12,7 @@
 	<atom:link href="https://tristan-harris.github.io/StaticWordpressSite/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tristan-harris.github.io/StaticWordpressSite</link>
 	<description></description>
-	<lastBuildDate>Tue, 31 Oct 2023 02:01:57 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Oct 2023 02:52:35 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,22 +29,26 @@
 </image> 
 	<item>
 		<title>Penguins</title>
-		<link>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/penguins/</link>
-					<comments>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/penguins/#respond</comments>
+		<link>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/a-video-of-some-penguins/</link>
+					<comments>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/a-video-of-some-penguins/#respond</comments>
 		
 		<dc:creator><![CDATA[tristan]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 04:45:19 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
 		<guid isPermaLink="false">https://tristan-harris.github.io/StaticWordpressSite/?p=37</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[A video about some penguins.]]></description>
 										<content:encoded><![CDATA[
+<p>A video about some penguins.</p>
+
+
+
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe title="Penguin chicks rescued by unlikely hero | Spy In The Snow | BBC Earth" width="500" height="281" src="https://www.youtube.com/embed/IvkfpgjBt5k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div><figcaption class="wp-element-caption">Penguins</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/penguins/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/a-video-of-some-penguins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -59,15 +63,15 @@
 				<category><![CDATA[Uncategorised]]></category>
 		<guid isPermaLink="false">https://tristan-harris.github.io/StaticWordpressSite/?p=24</guid>
 
-					<description><![CDATA[[Insert a wise sounding quote] Wise Person Truly, this is the way. Subscribe for more content.]]></description>
+					<description><![CDATA[[Insert a quote] Wise Person Subscribe for more content.]]></description>
 										<content:encoded><![CDATA[
 <blockquote class="wp-block-quote">
-<p>[Insert a wise sounding quote]</p>
+<p>[Insert a quote]</p>
 <cite>Wise Person</cite></blockquote>
 
 
 
-<p>Truly, this is the way. Subscribe for more content.</p>
+<p>Subscribe for more content.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/test-post/feed/</wfw:commentRss>
