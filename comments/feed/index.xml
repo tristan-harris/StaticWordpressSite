@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for My WordPress Website	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://tristan-harris.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tristan-harris.github.io</link>
 	<description></description>
 	<lastBuildDate>Thu, 26 Oct 2023 04:18:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by tristan		</title>
-		<link>/2023/10/26/hello-world/#comment-2</link>
+		<link>https://tristan-harris.github.io/2023/10/26/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[tristan]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 04:12:05 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-2</guid>
+		<guid isPermaLink="false">https://tristan-harris.github.io/?p=1#comment-2</guid>
 
 					<description><![CDATA[This is a test comment.]]></description>
 			<content:encoded><![CDATA[<p>This is a test comment.</p>
@@ -34,11 +34,11 @@
 		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/2023/10/26/hello-world/#comment-1</link>
+		<link>https://tristan-harris.github.io/2023/10/26/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 03:03:52 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://tristan-harris.github.io/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

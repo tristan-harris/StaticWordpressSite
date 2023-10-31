@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://tristan-harris.github.io/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tristan-harris.github.io</link>
 	<description></description>
 	<lastBuildDate>Thu, 26 Oct 2023 03:03:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
