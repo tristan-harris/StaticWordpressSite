@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Test Post	</title>
-	<atom:link href="https://tristan-harris.github.io/2023/10/26/test-post/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tristan-harris.github.io/2023/10/26/test-post/</link>
+	<atom:link href="https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/test-post/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/test-post/</link>
 	<description></description>
 	<lastBuildDate>Thu, 26 Oct 2023 04:17:47 +0000</lastBuildDate>
 	<sy:updatePeriod>

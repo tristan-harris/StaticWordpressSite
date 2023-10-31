@@ -9,10 +9,10 @@
 
 <channel>
 	<title>My WordPress Website</title>
-	<atom:link href="https://tristan-harris.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tristan-harris.github.io</link>
+	<atom:link href="https://tristan-harris.github.io/StaticWordpressSite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tristan-harris.github.io/StaticWordpressSite</link>
 	<description></description>
-	<lastBuildDate>Thu, 26 Oct 2023 04:45:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Oct 2023 02:01:57 +0000</lastBuildDate>
 	<language>en-AU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,48 +21,43 @@
 	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
-	<url>https://tristan-harris.github.io/wp-content/uploads/2023/10/wireframe-globe-150x150.png</url>
+	<url>https://tristan-harris.github.io/StaticWordpressSite/wp-content/uploads/2023/10/wireframe-globe-150x150.png</url>
 	<title>My WordPress Website</title>
-	<link>https://tristan-harris.github.io</link>
+	<link>https://tristan-harris.github.io/StaticWordpressSite</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Penguins</title>
-		<link>https://tristan-harris.github.io/2023/10/26/penguins/</link>
-					<comments>https://tristan-harris.github.io/2023/10/26/penguins/#respond</comments>
+		<link>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/penguins/</link>
+					<comments>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/penguins/#respond</comments>
 		
 		<dc:creator><![CDATA[tristan]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 04:45:19 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">https://tristan-harris.github.io/?p=37</guid>
+		<guid isPermaLink="false">https://tristan-harris.github.io/StaticWordpressSite/?p=37</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-            
-            
-                            <iframe title="Penguin chicks rescued by unlikely hero | Spy In The Snow | BBC Earth" width="500" height="281" src="https://www.youtube.com/embed/IvkfpgjBt5k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            
-            
-
-
-
-<p></p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Penguin chicks rescued by unlikely hero | Spy In The Snow | BBC Earth" width="500" height="281" src="https://www.youtube.com/embed/IvkfpgjBt5k?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Penguins</figcaption></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tristan-harris.github.io/2023/10/26/penguins/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/penguins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Test Post</title>
-		<link>https://tristan-harris.github.io/2023/10/26/test-post/</link>
-					<comments>https://tristan-harris.github.io/2023/10/26/test-post/#respond</comments>
+		<link>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/test-post/</link>
+					<comments>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/test-post/#respond</comments>
 		
 		<dc:creator><![CDATA[tristan]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 04:14:55 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">https://tristan-harris.github.io/?p=24</guid>
+		<guid isPermaLink="false">https://tristan-harris.github.io/StaticWordpressSite/?p=24</guid>
 
 					<description><![CDATA[[Insert a wise sounding quote] Wise Person Truly, this is the way. Subscribe for more content.]]></description>
 										<content:encoded><![CDATA[
@@ -75,20 +70,20 @@
 <p>Truly, this is the way. Subscribe for more content.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tristan-harris.github.io/2023/10/26/test-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/test-post/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://tristan-harris.github.io/2023/10/26/hello-world/</link>
-					<comments>https://tristan-harris.github.io/2023/10/26/hello-world/#comments</comments>
+		<link>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/hello-world/</link>
+					<comments>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tristan]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 03:03:52 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">https://tristan-harris.github.io/?p=1</guid>
+		<guid isPermaLink="false">https://tristan-harris.github.io/StaticWordpressSite/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
@@ -96,10 +91,10 @@
 
 
 
-<figure class="wp-block-image size-full is-resized"><img decoding="async" fetchpriority="high" width="412" height="275" src="https://tristan-harris.github.io/wp-content/uploads/2023/10/crisp-mountain-air-478825.png" alt="" class="wp-image-7" style="aspect-ratio:1.4981818181818183;width:649px;height:auto" srcset="https://tristan-harris.github.io/wp-content/uploads/2023/10/crisp-mountain-air-478825.png 412w, https://tristan-harris.github.io/wp-content/uploads/2023/10/crisp-mountain-air-478825-300x200.png 300w" sizes="(max-width: 412px) 100vw, 412px" /></figure>
+<figure class="wp-block-image size-full is-resized"><img decoding="async" fetchpriority="high" width="412" height="275" src="https://tristan-harris.github.io/StaticWordpressSite/wp-content/uploads/2023/10/crisp-mountain-air-478825.png" alt="" class="wp-image-7" style="aspect-ratio:1.4981818181818183;width:649px;height:auto" srcset="https://tristan-harris.github.io/StaticWordpressSite/wp-content/uploads/2023/10/crisp-mountain-air-478825.png 412w, https://tristan-harris.github.io/StaticWordpressSite/wp-content/uploads/2023/10/crisp-mountain-air-478825-300x200.png 300w" sizes="(max-width: 412px) 100vw, 412px" /></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tristan-harris.github.io/2023/10/26/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tristan-harris.github.io/StaticWordpressSite/2023/10/26/hello-world/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
